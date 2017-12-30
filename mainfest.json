@@ -1,0 +1,12 @@
+{
+    "manifest_version":2,
+    "name":"Easy-Searching",
+    "version":"1.0.0",
+    "description":"Quick search for selected text from multiple website.",
+    "icons":
+    {
+        "16":"img/icon.png",
+        "48":"img/icon.png",
+        "128":"image/icon.png"
+    }
+}
